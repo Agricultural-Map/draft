@@ -12,7 +12,7 @@ for (let i = 0; i < data.length; i++) {
         provinces.push(data[i].properties.NAME_1);
         districts.push(data[i].properties.NAME_1 + '/' + data[i].properties.NAME_2);
 
-        var communesFeatures = [];
+        let communesFeatures = [];
 
         for (let k = 0; k < data.length; k++) {
 
@@ -20,10 +20,9 @@ for (let i = 0; i < data.length; i++) {
                 communesFeatures.push(data[k]);
                 totalCommunes++;
             }
-
         }
 
-        var fileContent = {
+        let fileContent = {
             "type": "FeatureCollection",
             "features": communesFeatures
         }

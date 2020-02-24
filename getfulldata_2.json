@@ -1,0 +1,2320 @@
+[{
+    "value": "An Giang",
+    "children": [{
+        "value": "An Phú",
+        "children": []
+    }, {
+        "value": "Chợ Mới",
+        "children": []
+    }, {
+        "value": "Châu Đốc",
+        "children": []
+    }, {
+        "value": "Châu Phú",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Long Xuyên",
+        "children": []
+    }, {
+        "value": "Phú Tân",
+        "children": []
+    }, {
+        "value": "Tịnh Biên",
+        "children": []
+    }, {
+        "value": "Tân Châu",
+        "children": []
+    }, {
+        "value": "Thoại Sơn",
+        "children": []
+    }, {
+        "value": "Tri Tôn",
+        "children": []
+    }]
+}, {
+    "value": "Bạc Liêu",
+    "children": [{
+        "value": "Bạc Liêu",
+        "children": []
+    }, {
+        "value": "Đông Hải",
+        "children": []
+    }, {
+        "value": "Giá Rai",
+        "children": []
+    }, {
+        "value": "Hồng Dân",
+        "children": []
+    }, {
+        "value": "Hoà Bình",
+        "children": []
+    }, {
+        "value": "Phước Long",
+        "children": []
+    }, {
+        "value": "Vĩnh Lợi",
+        "children": []
+    }]
+}, {
+    "value": "Bắc Giang",
+    "children": [{
+        "value": "Bắc Giang",
+        "children": []
+    }, {
+        "value": "Hiệp Hòa",
+        "children": []
+    }, {
+        "value": "Lạng Giang",
+        "children": []
+    }, {
+        "value": "Lục Nam",
+        "children": []
+    }, {
+        "value": "Lục Ngạn",
+        "children": []
+    }, {
+        "value": "Sơn Động",
+        "children": []
+    }, {
+        "value": "Tân Yên",
+        "children": []
+    }, {
+        "value": "Việt Yên",
+        "children": []
+    }, {
+        "value": "Yên Dũng",
+        "children": []
+    }, {
+        "value": "Yên Thế",
+        "children": []
+    }]
+}, {
+    "value": "Bắc Kạn",
+    "children": [{
+        "value": "Bạch Thông",
+        "children": []
+    }, {
+        "value": "Ba Bể",
+        "children": []
+    }, {
+        "value": "Chợ Đồn",
+        "children": []
+    }, {
+        "value": "Chợ Mới",
+        "children": []
+    }, {
+        "value": "Na Rì",
+        "children": []
+    }, {
+        "value": "Ngân Sơn",
+        "children": []
+    }, {
+        "value": "Pác Nặm",
+        "children": []
+    }, {
+        "value": "Thành Phố Bắc Kạn",
+        "children": []
+    }]
+}, {
+    "value": "Bắc Ninh",
+    "children": [{
+        "value": "Bắc Ninh",
+        "children": []
+    }, {
+        "value": "Gia Bình",
+        "children": []
+    }, {
+        "value": "Lương Tài",
+        "children": []
+    }, {
+        "value": "Quế Võ",
+        "children": []
+    }, {
+        "value": "Từ Sơn",
+        "children": []
+    }, {
+        "value": "Thuận Thành",
+        "children": []
+    }, {
+        "value": "Tiên Du",
+        "children": []
+    }, {
+        "value": "Yên Phong",
+        "children": []
+    }]
+}, {
+    "value": "Bến Tre",
+    "children": [{
+        "value": "Bến Tre",
+        "children": []
+    }, {
+        "value": "Ba Tri",
+        "children": []
+    }, {
+        "value": "Bình Đại",
+        "children": []
+    }, {
+        "value": "Chợ Lách",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Giồng Trôm",
+        "children": []
+    }, {
+        "value": "Mỏ Cày Bắc",
+        "children": []
+    }, {
+        "value": "Mỏ Cày Nam",
+        "children": []
+    }, {
+        "value": "Thạnh Phú",
+        "children": []
+    }]
+}, {
+    "value": "Bà Rịa - Vũng Tàu",
+    "children": [{
+        "value": "Bà Rịa",
+        "children": []
+    }, {
+        "value": "Châu Đức",
+        "children": []
+    }, {
+        "value": "Đất Đỏ",
+        "children": []
+    }, {
+        "value": "Long Điền",
+        "children": []
+    }, {
+        "value": "Tân Thành",
+        "children": []
+    }, {
+        "value": "Vũng Tàu",
+        "children": []
+    }, {
+        "value": "Xuyên Mộc",
+        "children": []
+    }]
+}, {
+    "value": "Bình Định",
+    "children": [{
+        "value": "An Lão",
+        "children": []
+    }, {
+        "value": "An Nhơn",
+        "children": []
+    }, {
+        "value": "Hoài Ân",
+        "children": []
+    }, {
+        "value": "Hoài Nhơn",
+        "children": []
+    }, {
+        "value": "Phù Cát",
+        "children": []
+    }, {
+        "value": "Phù Mỹ",
+        "children": []
+    }, {
+        "value": "Qui Nhơn",
+        "children": []
+    }, {
+        "value": "Tây Sơn",
+        "children": []
+    }, {
+        "value": "Tuy Phước",
+        "children": []
+    }, {
+        "value": "Vân Canh",
+        "children": []
+    }, {
+        "value": "Vĩnh Thạnh",
+        "children": []
+    }]
+}, {
+    "value": "Bình Dương",
+    "children": [{
+        "value": "Bắc Tân Uyên",
+        "children": []
+    }, {
+        "value": "Bến Cát",
+        "children": []
+    }, {
+        "value": "Bàu Bàng",
+        "children": []
+    }, {
+        "value": "Dầu Tiếng",
+        "children": []
+    }, {
+        "value": "Dĩ An",
+        "children": []
+    }, {
+        "value": "Phú Giáo",
+        "children": []
+    }, {
+        "value": "Tân Uyên",
+        "children": []
+    }, {
+        "value": "Thủ Dầu Một",
+        "children": []
+    }, {
+        "value": "Thuận An",
+        "children": []
+    }]
+}, {
+    "value": "Bình Phước",
+    "children": [{
+        "value": "Bình Long",
+        "children": []
+    }, {
+        "value": "Bù Đốp",
+        "children": []
+    }, {
+        "value": "Bù Đăng",
+        "children": []
+    }, {
+        "value": "Bù Gia Mập",
+        "children": []
+    }, {
+        "value": "Chơn Thành",
+        "children": []
+    }, {
+        "value": "Đồng Phú",
+        "children": []
+    }, {
+        "value": "Đồng Xoài",
+        "children": []
+    }, {
+        "value": "Hớn Quản",
+        "children": []
+    }, {
+        "value": "Lộc Ninh",
+        "children": []
+    }, {
+        "value": "Phú Riềng",
+        "children": []
+    }, {
+        "value": "Phước Long",
+        "children": []
+    }]
+}, {
+    "value": "Bình Thuận",
+    "children": [{
+        "value": "Bắc Bình",
+        "children": []
+    }, {
+        "value": "Đức Linh",
+        "children": []
+    }, {
+        "value": "Hàm Tân",
+        "children": []
+    }, {
+        "value": "Hàm Thuận Bắc",
+        "children": []
+    }, {
+        "value": "Hàm Thuận Nam",
+        "children": []
+    }, {
+        "value": "La Gi",
+        "children": []
+    }, {
+        "value": "Phan Thiết",
+        "children": []
+    }, {
+        "value": "Phú Quí",
+        "children": []
+    }, {
+        "value": "Tánh Linh",
+        "children": []
+    }, {
+        "value": "Tuy Phong",
+        "children": []
+    }]
+}, {
+    "value": "Cần Thơ",
+    "children": [{
+        "value": "Bình Thuỷ",
+        "children": []
+    }, {
+        "value": "Cờ Đỏ",
+        "children": []
+    }, {
+        "value": "Cái Răng",
+        "children": []
+    }, {
+        "value": "Ninh Kiều",
+        "children": []
+    }, {
+        "value": "Ô Môn",
+        "children": []
+    }, {
+        "value": "Phong Điền",
+        "children": []
+    }, {
+        "value": "Thốt Nốt",
+        "children": []
+    }, {
+        "value": "Thới Lai",
+        "children": []
+    }, {
+        "value": "Vĩnh Thạnh",
+        "children": []
+    }]
+}, {
+    "value": "Cà Mau",
+    "children": [{
+        "value": "Cà Mau",
+        "children": []
+    }, {
+        "value": "Cái Nước",
+        "children": []
+    }, {
+        "value": "Đầm Dơi",
+        "children": []
+    }, {
+        "value": "Năm Căn",
+        "children": []
+    }, {
+        "value": "Ngọc Hiển",
+        "children": []
+    }, {
+        "value": "Phú Tân",
+        "children": []
+    }, {
+        "value": "Thới Bình",
+        "children": []
+    }, {
+        "value": "Trần Văn Thời",
+        "children": []
+    }, {
+        "value": "U Minh",
+        "children": []
+    }]
+}, {
+    "value": "Cao Bằng",
+    "children": [{
+        "value": "Bảo Lạc",
+        "children": []
+    }, {
+        "value": "Bảo Lâm",
+        "children": []
+    }, {
+        "value": "Cao Bằng",
+        "children": []
+    }, {
+        "value": "Hạ Lang",
+        "children": []
+    }, {
+        "value": "Hà Quảng",
+        "children": []
+    }, {
+        "value": "Hoà An",
+        "children": []
+    }, {
+        "value": "Nguyên Bình",
+        "children": []
+    }, {
+        "value": "Phục Hoà",
+        "children": []
+    }, {
+        "value": "Quảng Uyên",
+        "children": []
+    }, {
+        "value": "Thạch An",
+        "children": []
+    }, {
+        "value": "Thông Nông",
+        "children": []
+    }, {
+        "value": "Trà Lĩnh",
+        "children": []
+    }, {
+        "value": "Trùng Khánh",
+        "children": []
+    }]
+}, {
+    "value": "Đắk Lắk",
+    "children": [{
+        "value": "Buôn Đôn",
+        "children": []
+    }, {
+        "value": "Buôn Ma Thuột",
+        "children": []
+    }, {
+        "value": "Cư Kuin",
+        "children": []
+    }, {
+        "value": "Cư M'gar",
+        "children": []
+    }, {
+        "value": "Ea H'leo",
+        "children": []
+    }, {
+        "value": "Ea Kar",
+        "children": []
+    }, {
+        "value": "Ea Súp",
+        "children": []
+    }, {
+        "value": "Krông A Na",
+        "children": []
+    }, {
+        "value": "Krông Bông",
+        "children": []
+    }, {
+        "value": "Krông Búk",
+        "children": []
+    }, {
+        "value": "Krông Năng",
+        "children": []
+    }, {
+        "value": "Krông Pắc",
+        "children": []
+    }, {
+        "value": "Lắk",
+        "children": []
+    }, {
+        "value": "M'Đrắk",
+        "children": []
+    }, {
+        "value": "Thị Xã Buôn Hồ",
+        "children": []
+    }]
+}, {
+    "value": "Đắk Nông",
+    "children": [{
+        "value": "Cư Jút",
+        "children": []
+    }, {
+        "value": "Đắk Mil",
+        "children": []
+    }, {
+        "value": "Đắk R'Lấp",
+        "children": []
+    }, {
+        "value": "Đắk Song",
+        "children": []
+    }, {
+        "value": "Đăk Glong",
+        "children": []
+    }, {
+        "value": "Gia Nghĩa",
+        "children": []
+    }, {
+        "value": "Krông Nô",
+        "children": []
+    }, {
+        "value": "Tuy Đức",
+        "children": []
+    }]
+}, {
+    "value": "Đồng Nai",
+    "children": [{
+        "value": "Biên Hòa",
+        "children": []
+    }, {
+        "value": "Cẩm Mỹ",
+        "children": []
+    }, {
+        "value": "Định Quán",
+        "children": []
+    }, {
+        "value": "Long Khánh",
+        "children": []
+    }, {
+        "value": "Long Thành",
+        "children": []
+    }, {
+        "value": "Nhơn Trạch",
+        "children": []
+    }, {
+        "value": "Tân Phú",
+        "children": []
+    }, {
+        "value": "Thống Nhất",
+        "children": []
+    }, {
+        "value": "Trảng Bom",
+        "children": []
+    }, {
+        "value": "Vĩnh Cửu",
+        "children": []
+    }, {
+        "value": "Xuân Lộc",
+        "children": []
+    }]
+}, {
+    "value": "Đồng Tháp",
+    "children": [{
+        "value": "Cao Lãnh",
+        "children": []
+    }, {
+        "value": "Cao Lãnh (Thành phố)",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Hồng Ngự",
+        "children": []
+    }, {
+        "value": "Hồng Ngự (Thị xã)",
+        "children": []
+    }, {
+        "value": "Lấp Vò",
+        "children": []
+    }, {
+        "value": "Lai Vung",
+        "children": []
+    }, {
+        "value": "Sa Đéc",
+        "children": []
+    }, {
+        "value": "Tam Nông",
+        "children": []
+    }, {
+        "value": "Tân Hồng",
+        "children": []
+    }, {
+        "value": "Thanh Bình",
+        "children": []
+    }, {
+        "value": "Tháp Mười",
+        "children": []
+    }]
+}, {
+    "value": "Đà Nẵng",
+    "children": [{
+        "value": "Cẩm Lệ",
+        "children": []
+    }, {
+        "value": "Hải Châu",
+        "children": []
+    }, {
+        "value": "Hòa Vang",
+        "children": []
+    }, {
+        "value": "Liên Chiểu",
+        "children": []
+    }, {
+        "value": "Ngũ Hành Sơn",
+        "children": []
+    }, {
+        "value": "Sơn Trà",
+        "children": []
+    }, {
+        "value": "Thanh Khê",
+        "children": []
+    }]
+}, {
+    "value": "Điện Biên",
+    "children": [{
+        "value": "Điện Biên",
+        "children": []
+    }, {
+        "value": "Điện Biên Đông",
+        "children": []
+    }, {
+        "value": "Điện Biên Phủ",
+        "children": []
+    }, {
+        "value": "Mường Ảng",
+        "children": []
+    }, {
+        "value": "Mường Chà",
+        "children": []
+    }, {
+        "value": "Mường Nhé",
+        "children": []
+    }, {
+        "value": "Nậm Pồ",
+        "children": []
+    }, {
+        "value": "Tủa Chùa",
+        "children": []
+    }, {
+        "value": "Thị Xã Mường Lay",
+        "children": []
+    }, {
+        "value": "Tuần Giáo",
+        "children": []
+    }]
+}, {
+    "value": "Gia Lai",
+    "children": [{
+        "value": "An Khê",
+        "children": []
+    }, {
+        "value": "Ayun Pa",
+        "children": []
+    }, {
+        "value": "Chư Păh",
+        "children": []
+    }, {
+        "value": "Chư Prông",
+        "children": []
+    }, {
+        "value": "Chư Pưh",
+        "children": []
+    }, {
+        "value": "Chư Sê",
+        "children": []
+    }, {
+        "value": "Đức Cơ",
+        "children": []
+    }, {
+        "value": "Đăk Đoa",
+        "children": []
+    }, {
+        "value": "Đăk Pơ",
+        "children": []
+    }, {
+        "value": "Ia Grai",
+        "children": []
+    }, {
+        "value": "Ia Pa",
+        "children": []
+    }, {
+        "value": "KBang",
+        "children": []
+    }, {
+        "value": "Kông Chro",
+        "children": []
+    }, {
+        "value": "Krông Pa",
+        "children": []
+    }, {
+        "value": "Mang Yang",
+        "children": []
+    }, {
+        "value": "Phú Thiện",
+        "children": []
+    }, {
+        "value": "Pleiku",
+        "children": []
+    }]
+}, {
+    "value": "Hải Dương",
+    "children": [{
+        "value": "Bình Giang",
+        "children": []
+    }, {
+        "value": "Cẩm Giàng",
+        "children": []
+    }, {
+        "value": "Chí Linh",
+        "children": []
+    }, {
+        "value": "Gia Lộc",
+        "children": []
+    }, {
+        "value": "Hải Dương",
+        "children": []
+    }, {
+        "value": "Kim Thành",
+        "children": []
+    }, {
+        "value": "Kinh Môn",
+        "children": []
+    }, {
+        "value": "Nam Sách",
+        "children": []
+    }, {
+        "value": "Ninh Giang",
+        "children": []
+    }, {
+        "value": "Tứ Kỳ",
+        "children": []
+    }, {
+        "value": "Thanh Hà",
+        "children": []
+    }, {
+        "value": "Thanh Miện",
+        "children": []
+    }]
+}, {
+    "value": "Hải Phòng",
+    "children": [{
+        "value": "An Dương",
+        "children": []
+    }, {
+        "value": "An Lão",
+        "children": []
+    }, {
+        "value": "Bạch Long Vĩ",
+        "children": []
+    }, {
+        "value": "Cát Hải",
+        "children": []
+    }, {
+        "value": "Đồ Sơn",
+        "children": []
+    }, {
+        "value": "Dương Kinh",
+        "children": []
+    }, {
+        "value": "Hải An",
+        "children": []
+    }, {
+        "value": "Hồng Bàng",
+        "children": []
+    }, {
+        "value": "Kiến An",
+        "children": []
+    }, {
+        "value": "Kiến Thuỵ",
+        "children": []
+    }, {
+        "value": "Lê Chân",
+        "children": []
+    }, {
+        "value": "Ngô Quyền",
+        "children": []
+    }, {
+        "value": "Thuỷ Nguyên",
+        "children": []
+    }, {
+        "value": "Tiên Lãng",
+        "children": []
+    }, {
+        "value": "Vĩnh Bảo",
+        "children": []
+    }]
+}, {
+    "value": "Hậu Giang",
+    "children": [{
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Châu Thành A",
+        "children": []
+    }, {
+        "value": "Long Mỹ",
+        "children": []
+    }, {
+        "value": "Long Mỹ (Thị xã)",
+        "children": []
+    }, {
+        "value": "Ngã Bảy",
+        "children": []
+    }, {
+        "value": "Phụng Hiệp",
+        "children": []
+    }, {
+        "value": "Vị Thanh",
+        "children": []
+    }, {
+        "value": "Vị Thuỷ",
+        "children": []
+    }]
+}, {
+    "value": "Hồ Chí Minh",
+    "children": [{
+        "value": "Bình Chánh",
+        "children": []
+    }, {
+        "value": "Bình Tân",
+        "children": []
+    }, {
+        "value": "Bình Thạnh",
+        "children": []
+    }, {
+        "value": "Cần Giờ",
+        "children": []
+    }, {
+        "value": "Củ Chi",
+        "children": []
+    }, {
+        "value": "Gò Vấp",
+        "children": []
+    }, {
+        "value": "Hóc Môn",
+        "children": []
+    }, {
+        "value": "Nhà Bè",
+        "children": []
+    }, {
+        "value": "Phú Nhuận",
+        "children": []
+    }, {
+        "value": "Quận 1",
+        "children": []
+    }, {
+        "value": "Quận 10",
+        "children": []
+    }, {
+        "value": "Quận 11",
+        "children": []
+    }, {
+        "value": "Quận 12",
+        "children": []
+    }, {
+        "value": "Quận 2",
+        "children": []
+    }, {
+        "value": "Quận 3",
+        "children": []
+    }, {
+        "value": "Quận 4",
+        "children": []
+    }, {
+        "value": "Quận 5",
+        "children": []
+    }, {
+        "value": "Quận 6",
+        "children": []
+    }, {
+        "value": "Quận 7",
+        "children": []
+    }, {
+        "value": "Quận 8",
+        "children": []
+    }, {
+        "value": "Quận 9",
+        "children": []
+    }, {
+        "value": "Tân Bình",
+        "children": []
+    }, {
+        "value": "Tân Phú",
+        "children": []
+    }, {
+        "value": "Thủ Đức",
+        "children": []
+    }]
+}, {
+    "value": "Hà Giang",
+    "children": [{
+        "value": "Bắc Mê",
+        "children": []
+    }, {
+        "value": "Bắc Quang",
+        "children": []
+    }, {
+        "value": "Đồng Văn",
+        "children": []
+    }, {
+        "value": "Hà Giang",
+        "children": []
+    }, {
+        "value": "Hoàng Su Phì",
+        "children": []
+    }, {
+        "value": "Mèo Vạc",
+        "children": []
+    }, {
+        "value": "Quản Bạ",
+        "children": []
+    }, {
+        "value": "Quang Bình",
+        "children": []
+    }, {
+        "value": "Vị Xuyên",
+        "children": []
+    }, {
+        "value": "Xín Mần",
+        "children": []
+    }, {
+        "value": "Yên Minh",
+        "children": []
+    }]
+}, {
+    "value": "Hà Nội",
+    "children": [{
+        "value": "Ứng Hòa",
+        "children": []
+    }, {
+        "value": "Bắc Từ Liêm",
+        "children": []
+    }, {
+        "value": "Ba Đình",
+        "children": []
+    }, {
+        "value": "Ba Vì",
+        "children": []
+    }, {
+        "value": "Cầu Giấy",
+        "children": []
+    }, {
+        "value": "Chương Mỹ",
+        "children": []
+    }, {
+        "value": "Đống Đa",
+        "children": []
+    }, {
+        "value": "Đan Phượng",
+        "children": []
+    }, {
+        "value": "Đông Anh",
+        "children": []
+    }, {
+        "value": "Gia Lâm",
+        "children": []
+    }, {
+        "value": "Hà Đông",
+        "children": []
+    }, {
+        "value": "Hai Bà Trưng",
+        "children": []
+    }, {
+        "value": "Hoài Đức",
+        "children": []
+    }, {
+        "value": "Hoàn Kiếm",
+        "children": []
+    }, {
+        "value": "Hoàng Mai",
+        "children": []
+    }, {
+        "value": "Long Biên",
+        "children": []
+    }, {
+        "value": "Mỹ Đức",
+        "children": []
+    }, {
+        "value": "Mê Linh",
+        "children": []
+    }, {
+        "value": "Nam Từ Liêm",
+        "children": []
+    }, {
+        "value": "Phú Xuyên",
+        "children": []
+    }, {
+        "value": "Phúc Thọ",
+        "children": []
+    }, {
+        "value": "Quốc Oai",
+        "children": []
+    }, {
+        "value": "Sóc Sơn",
+        "children": []
+    }, {
+        "value": "Sơn Tây",
+        "children": []
+    }, {
+        "value": "Tây Hồ",
+        "children": []
+    }, {
+        "value": "Thạch Thất",
+        "children": []
+    }, {
+        "value": "Thanh Oai",
+        "children": []
+    }, {
+        "value": "Thanh Trì",
+        "children": []
+    }, {
+        "value": "Thanh Xuân",
+        "children": []
+    }, {
+        "value": "Thường Tín",
+        "children": []
+    }]
+}, {
+    "value": "Hà Nam",
+    "children": [{
+        "value": "Bình Lục",
+        "children": []
+    }, {
+        "value": "Duy Tiên",
+        "children": []
+    }, {
+        "value": "Kim Bảng",
+        "children": []
+    }, {
+        "value": "Lý Nhân",
+        "children": []
+    }, {
+        "value": "Phủ Lý",
+        "children": []
+    }, {
+        "value": "Thanh Liêm",
+        "children": []
+    }]
+}, {
+    "value": "Hà Tĩnh",
+    "children": [{
+        "value": "Cẩm Xuyên",
+        "children": []
+    }, {
+        "value": "Can Lộc",
+        "children": []
+    }, {
+        "value": "Đức Thọ",
+        "children": []
+    }, {
+        "value": "Hồng Lĩnh",
+        "children": []
+    }, {
+        "value": "Hà Tĩnh",
+        "children": []
+    }, {
+        "value": "Hương Khê",
+        "children": []
+    }, {
+        "value": "Hương Sơn",
+        "children": []
+    }, {
+        "value": "Kỳ Anh",
+        "children": []
+    }, {
+        "value": "Kỳ Anh (Thị xã)",
+        "children": []
+    }, {
+        "value": "Lộc Hà",
+        "children": []
+    }, {
+        "value": "Nghi Xuân",
+        "children": []
+    }, {
+        "value": "Thạch Hà",
+        "children": []
+    }, {
+        "value": "Vũ Quang",
+        "children": []
+    }]
+}, {
+    "value": "Hoà Bình",
+    "children": [{
+        "value": "Cao Phong",
+        "children": []
+    }, {
+        "value": "Đà Bắc",
+        "children": []
+    }, {
+        "value": "Hòa Bình",
+        "children": []
+    }, {
+        "value": "Kỳ Sơn",
+        "children": []
+    }, {
+        "value": "Kim Bôi",
+        "children": []
+    }, {
+        "value": "Lạc Sơn",
+        "children": []
+    }, {
+        "value": "Lạc Thủy",
+        "children": []
+    }, {
+        "value": "Lương Sơn",
+        "children": []
+    }, {
+        "value": "Mai Châu",
+        "children": []
+    }, {
+        "value": "Tân Lạc",
+        "children": []
+    }, {
+        "value": "Yên Thủy",
+        "children": []
+    }]
+}, {
+    "value": "Hưng Yên",
+    "children": [{
+        "value": "Ân Thi",
+        "children": []
+    }, {
+        "value": "Hưng Yên",
+        "children": []
+    }, {
+        "value": "Khoái Châu",
+        "children": []
+    }, {
+        "value": "Kim Động",
+        "children": []
+    }, {
+        "value": "Mỹ Hào",
+        "children": []
+    }, {
+        "value": "Phù Cừ",
+        "children": []
+    }, {
+        "value": "Tiên Lữ",
+        "children": []
+    }, {
+        "value": "Văn Giang",
+        "children": []
+    }, {
+        "value": "Văn Lâm",
+        "children": []
+    }, {
+        "value": "Yên Mỹ",
+        "children": []
+    }]
+}, {
+    "value": "Khánh Hòa",
+    "children": [{
+        "value": "Cam Lâm",
+        "children": []
+    }, {
+        "value": "Cam Ranh",
+        "children": []
+    }, {
+        "value": "Diên Khánh",
+        "children": []
+    }, {
+        "value": "Khánh Sơn",
+        "children": []
+    }, {
+        "value": "Khánh Vĩnh",
+        "children": []
+    }, {
+        "value": "Nha Trang",
+        "children": []
+    }, {
+        "value": "Ninh Hòa",
+        "children": []
+    }, {
+        "value": "Vạn Ninh",
+        "children": []
+    }]
+}, {
+    "value": "Kiên Giang",
+    "children": [{
+        "value": "An Biên",
+        "children": []
+    }, {
+        "value": "An Minh",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Giồng Riềng",
+        "children": []
+    }, {
+        "value": "Giang Thành",
+        "children": []
+    }, {
+        "value": "Gò Quao",
+        "children": []
+    }, {
+        "value": "Hà Tiên",
+        "children": []
+    }, {
+        "value": "Hòn Đất",
+        "children": []
+    }, {
+        "value": "Kiên Hải",
+        "children": []
+    }, {
+        "value": "Kiên Lương",
+        "children": []
+    }, {
+        "value": "Phú Quốc",
+        "children": []
+    }, {
+        "value": "Rạch Giá",
+        "children": []
+    }, {
+        "value": "Tân Hiệp",
+        "children": []
+    }, {
+        "value": "U Minh Thượng",
+        "children": []
+    }, {
+        "value": "Vĩnh Thuận",
+        "children": []
+    }]
+}, {
+    "value": "Kon Tum",
+    "children": [{
+        "value": "Đắk Glei",
+        "children": []
+    }, {
+        "value": "Đắk Hà",
+        "children": []
+    }, {
+        "value": "Đắk Tô",
+        "children": []
+    }, {
+        "value": "Ia H' Drai",
+        "children": []
+    }, {
+        "value": "Kon Plông",
+        "children": []
+    }, {
+        "value": "Kon Rẫy",
+        "children": []
+    }, {
+        "value": "Kon Tum",
+        "children": []
+    }, {
+        "value": "Ngọc Hồi",
+        "children": []
+    }, {
+        "value": "Sa Thầy",
+        "children": []
+    }, {
+        "value": "Tu Mơ Rông",
+        "children": []
+    }]
+}, {
+    "value": "Lạng Sơn",
+    "children": [{
+        "value": "Bắc Sơn",
+        "children": []
+    }, {
+        "value": "Bình Gia",
+        "children": []
+    }, {
+        "value": "Cao Lộc",
+        "children": []
+    }, {
+        "value": "Chi Lăng",
+        "children": []
+    }, {
+        "value": "Đình Lập",
+        "children": []
+    }, {
+        "value": "Hữu Lũng",
+        "children": []
+    }, {
+        "value": "Lạng Sơn",
+        "children": []
+    }, {
+        "value": "Lộc Bình",
+        "children": []
+    }, {
+        "value": "Tràng Định",
+        "children": []
+    }, {
+        "value": "Văn Lãng",
+        "children": []
+    }, {
+        "value": "Văn Quan",
+        "children": []
+    }]
+}, {
+    "value": "Lai Châu",
+    "children": [{
+        "value": "Lai Châu",
+        "children": []
+    }, {
+        "value": "Mường Tè",
+        "children": []
+    }, {
+        "value": "Nậm Nhùn",
+        "children": []
+    }, {
+        "value": "Phong Thổ",
+        "children": []
+    }, {
+        "value": "Sìn Hồ",
+        "children": []
+    }, {
+        "value": "Tam Đường",
+        "children": []
+    }, {
+        "value": "Tân Uyên",
+        "children": []
+    }, {
+        "value": "Than Uyên",
+        "children": []
+    }]
+}, {
+    "value": "Lâm Đồng",
+    "children": [{
+        "value": "Bảo Lộc",
+        "children": []
+    }, {
+        "value": "Bảo Lâm",
+        "children": []
+    }, {
+        "value": "Cát Tiên",
+        "children": []
+    }, {
+        "value": "Đạ Huoai",
+        "children": []
+    }, {
+        "value": "Đạ Tẻh",
+        "children": []
+    }, {
+        "value": "Đức Trọng",
+        "children": []
+    }, {
+        "value": "Đà Lạt",
+        "children": []
+    }, {
+        "value": "Đam Rông",
+        "children": []
+    }, {
+        "value": "Di Linh",
+        "children": []
+    }, {
+        "value": "Đơn Dương",
+        "children": []
+    }, {
+        "value": "Lạc Dương",
+        "children": []
+    }, {
+        "value": "Lâm Hà",
+        "children": []
+    }]
+}, {
+    "value": "Lào Cai",
+    "children": [{
+        "value": "Bảo Thắng",
+        "children": []
+    }, {
+        "value": "Bảo Yên",
+        "children": []
+    }, {
+        "value": "Bắc Hà",
+        "children": []
+    }, {
+        "value": "Bát Xát",
+        "children": []
+    }, {
+        "value": "Lào Cai",
+        "children": []
+    }, {
+        "value": "Mường Khương",
+        "children": []
+    }, {
+        "value": "Sa Pa",
+        "children": []
+    }, {
+        "value": "Si Ma Cai",
+        "children": []
+    }, {
+        "value": "Văn Bàn",
+        "children": []
+    }]
+}, {
+    "value": "Long An",
+    "children": [{
+        "value": "Bến Lức",
+        "children": []
+    }, {
+        "value": "Cần Đước",
+        "children": []
+    }, {
+        "value": "Cần Giuộc",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Đức Hòa",
+        "children": []
+    }, {
+        "value": "Đức Huệ",
+        "children": []
+    }, {
+        "value": "Kiến Tường",
+        "children": []
+    }, {
+        "value": "Mộc Hóa",
+        "children": []
+    }, {
+        "value": "Tân An",
+        "children": []
+    }, {
+        "value": "Tân Hưng",
+        "children": []
+    }, {
+        "value": "Tân Thạnh",
+        "children": []
+    }, {
+        "value": "Tân Trụ",
+        "children": []
+    }, {
+        "value": "Thạnh Hóa",
+        "children": []
+    }, {
+        "value": "Thủ Thừa",
+        "children": []
+    }, {
+        "value": "Vĩnh Hưng",
+        "children": []
+    }]
+}, {
+    "value": "Nam Định",
+    "children": [{
+        "value": "Giao Thủy",
+        "children": []
+    }, {
+        "value": "Hải Hậu",
+        "children": []
+    }, {
+        "value": "Mỹ Lộc",
+        "children": []
+    }, {
+        "value": "Nam Định",
+        "children": []
+    }, {
+        "value": "Nam Trực",
+        "children": []
+    }, {
+        "value": "Nghĩa Hưng",
+        "children": []
+    }, {
+        "value": "Trực Ninh",
+        "children": []
+    }, {
+        "value": "Vụ Bản",
+        "children": []
+    }, {
+        "value": "Xuân Trường",
+        "children": []
+    }, {
+        "value": "Ý Yên",
+        "children": []
+    }]
+}, {
+    "value": "Nghệ An",
+    "children": [{
+        "value": "Anh Sơn",
+        "children": []
+    }, {
+        "value": "Cửa Lò",
+        "children": []
+    }, {
+        "value": "Con Cuông",
+        "children": []
+    }, {
+        "value": "Diễn Châu",
+        "children": []
+    }, {
+        "value": "Đô Lương",
+        "children": []
+    }, {
+        "value": "Hoàng Mai",
+        "children": []
+    }, {
+        "value": "Hưng Nguyên",
+        "children": []
+    }, {
+        "value": "Kỳ Sơn",
+        "children": []
+    }, {
+        "value": "Nam Đàn",
+        "children": []
+    }, {
+        "value": "Nghi Lộc",
+        "children": []
+    }, {
+        "value": "Nghĩa Đàn",
+        "children": []
+    }, {
+        "value": "Quế Phong",
+        "children": []
+    }, {
+        "value": "Quỳ Châu",
+        "children": []
+    }, {
+        "value": "Quỳ Hợp",
+        "children": []
+    }, {
+        "value": "Quỳnh Lưu",
+        "children": []
+    }, {
+        "value": "Tân Kỳ",
+        "children": []
+    }, {
+        "value": "Thái Hoà",
+        "children": []
+    }, {
+        "value": "Thanh Chương",
+        "children": []
+    }, {
+        "value": "Tương Dương",
+        "children": []
+    }, {
+        "value": "Vinh",
+        "children": []
+    }, {
+        "value": "Yên Thành",
+        "children": []
+    }]
+}, {
+    "value": "Ninh Bình",
+    "children": [{
+        "value": "Gia Viễn",
+        "children": []
+    }, {
+        "value": "Hoa Lư",
+        "children": []
+    }, {
+        "value": "Kim Sơn",
+        "children": []
+    }, {
+        "value": "Nho Quan",
+        "children": []
+    }, {
+        "value": "Ninh Bình",
+        "children": []
+    }, {
+        "value": "Tam Điệp",
+        "children": []
+    }, {
+        "value": "Yên Khánh",
+        "children": []
+    }, {
+        "value": "Yên Mô",
+        "children": []
+    }]
+}, {
+    "value": "Ninh Thuận",
+    "children": [{
+        "value": "Bác Ái",
+        "children": []
+    }, {
+        "value": "Ninh Hải",
+        "children": []
+    }, {
+        "value": "Ninh Phước",
+        "children": []
+    }, {
+        "value": "Ninh Sơn",
+        "children": []
+    }, {
+        "value": "Phan Rang-Tháp Chàm",
+        "children": []
+    }, {
+        "value": "Thuận Bắc",
+        "children": []
+    }, {
+        "value": "Thuận Nam",
+        "children": []
+    }]
+}, {
+    "value": "Phú Thọ",
+    "children": [{
+        "value": "Cẩm Khê",
+        "children": []
+    }, {
+        "value": "Đoan Hùng",
+        "children": []
+    }, {
+        "value": "Hạ Hoà",
+        "children": []
+    }, {
+        "value": "Lâm Thao",
+        "children": []
+    }, {
+        "value": "Phù Ninh",
+        "children": []
+    }, {
+        "value": "Phú Thọ",
+        "children": []
+    }, {
+        "value": "Tam Nông",
+        "children": []
+    }, {
+        "value": "Tân Sơn",
+        "children": []
+    }, {
+        "value": "Thanh Ba",
+        "children": []
+    }, {
+        "value": "Thanh Sơn",
+        "children": []
+    }, {
+        "value": "Thanh Thuỷ",
+        "children": []
+    }, {
+        "value": "Việt Trì",
+        "children": []
+    }, {
+        "value": "Yên Lập",
+        "children": []
+    }]
+}, {
+    "value": "Phú Yên",
+    "children": [{
+        "value": "Đồng Xuân",
+        "children": []
+    }, {
+        "value": "Đông Hòa",
+        "children": []
+    }, {
+        "value": "Phú Hoà",
+        "children": []
+    }, {
+        "value": "Sơn Hòa",
+        "children": []
+    }, {
+        "value": "Sông Cầu",
+        "children": []
+    }, {
+        "value": "Sông Hinh",
+        "children": []
+    }, {
+        "value": "Tây Hoà",
+        "children": []
+    }, {
+        "value": "Tuy An",
+        "children": []
+    }, {
+        "value": "Tuy Hoà",
+        "children": []
+    }]
+}, {
+    "value": "Quảng Bình",
+    "children": [{
+        "value": "Bố Trạch",
+        "children": []
+    }, {
+        "value": "Ba Đồn",
+        "children": []
+    }, {
+        "value": "Lệ Thủy",
+        "children": []
+    }, {
+        "value": "Minh Hóa",
+        "children": []
+    }, {
+        "value": "Quảng Ninh",
+        "children": []
+    }, {
+        "value": "Quảng Trạch",
+        "children": []
+    }, {
+        "value": "Thành Phố Đồng Hới",
+        "children": []
+    }, {
+        "value": "Tuyên Hóa",
+        "children": []
+    }]
+}, {
+    "value": "Quảng Nam",
+    "children": [{
+        "value": "Bắc Trà My",
+        "children": []
+    }, {
+        "value": "Đại Lộc",
+        "children": []
+    }, {
+        "value": "Điện Bàn",
+        "children": []
+    }, {
+        "value": "Đông Giang",
+        "children": []
+    }, {
+        "value": "Duy Xuyên",
+        "children": []
+    }, {
+        "value": "Hội An",
+        "children": []
+    }, {
+        "value": "Hiệp Đức",
+        "children": []
+    }, {
+        "value": "Nam Giang",
+        "children": []
+    }, {
+        "value": "Nam Trà My",
+        "children": []
+    }, {
+        "value": "Nông Sơn",
+        "children": []
+    }, {
+        "value": "Núi Thành",
+        "children": []
+    }, {
+        "value": "Phú Ninh",
+        "children": []
+    }, {
+        "value": "Phước Sơn",
+        "children": []
+    }, {
+        "value": "Quế Sơn",
+        "children": []
+    }, {
+        "value": "Tam Kỳ",
+        "children": []
+    }, {
+        "value": "Tây Giang",
+        "children": []
+    }, {
+        "value": "Thăng Bình",
+        "children": []
+    }, {
+        "value": "Tiên Phước",
+        "children": []
+    }]
+}, {
+    "value": "Quảng Ngãi",
+    "children": [{
+        "value": "Ba Tơ",
+        "children": []
+    }, {
+        "value": "Bình Sơn",
+        "children": []
+    }, {
+        "value": "Đức Phổ",
+        "children": []
+    }, {
+        "value": "Lý Sơn",
+        "children": []
+    }, {
+        "value": "Mộ Đức",
+        "children": []
+    }, {
+        "value": "Minh Long",
+        "children": []
+    }, {
+        "value": "Nghĩa Hành",
+        "children": []
+    }, {
+        "value": "Quảng Ngãi",
+        "children": []
+    }, {
+        "value": "Sơn Hà",
+        "children": []
+    }, {
+        "value": "Sơn Tịnh",
+        "children": []
+    }, {
+        "value": "Sơn Tây",
+        "children": []
+    }, {
+        "value": "Tây Trà",
+        "children": []
+    }, {
+        "value": "Trà Bồng",
+        "children": []
+    }, {
+        "value": "Tư Nghĩa",
+        "children": []
+    }]
+}, {
+    "value": "Quảng Ninh",
+    "children": [{
+        "value": "Ba Chẽ",
+        "children": []
+    }, {
+        "value": "Bình Liêu",
+        "children": []
+    }, {
+        "value": "Cẩm Phả",
+        "children": []
+    }, {
+        "value": "Cô Tô",
+        "children": []
+    }, {
+        "value": "Đầm Hà",
+        "children": []
+    }, {
+        "value": "Đông Triều",
+        "children": []
+    }, {
+        "value": "Hạ Long",
+        "children": []
+    }, {
+        "value": "Hải Hà",
+        "children": []
+    }, {
+        "value": "Hoành Bồ",
+        "children": []
+    }, {
+        "value": "Móng Cái",
+        "children": []
+    }, {
+        "value": "Quảng Yên",
+        "children": []
+    }, {
+        "value": "Tiên Yên",
+        "children": []
+    }, {
+        "value": "Uông Bí",
+        "children": []
+    }, {
+        "value": "Vân Đồn",
+        "children": []
+    }]
+}, {
+    "value": "Quảng Trị",
+    "children": [{
+        "value": "Cồn Cỏ",
+        "children": []
+    }, {
+        "value": "Cam Lộ",
+        "children": []
+    }, {
+        "value": "Đa Krông",
+        "children": []
+    }, {
+        "value": "Đông Hà",
+        "children": []
+    }, {
+        "value": "Gio Linh",
+        "children": []
+    }, {
+        "value": "Hải Lăng",
+        "children": []
+    }, {
+        "value": "Hướng Hóa",
+        "children": []
+    }, {
+        "value": "Quảng Trị",
+        "children": []
+    }, {
+        "value": "Triệu Phong",
+        "children": []
+    }, {
+        "value": "Vĩnh Linh",
+        "children": []
+    }]
+}, {
+    "value": "Sóc Trăng",
+    "children": [{
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Cù Lao Dung",
+        "children": []
+    }, {
+        "value": "Kế Sách",
+        "children": []
+    }, {
+        "value": "Long Phú",
+        "children": []
+    }, {
+        "value": "Mỹ Tú",
+        "children": []
+    }, {
+        "value": "Mỹ Xuyên",
+        "children": []
+    }, {
+        "value": "Ngã Năm",
+        "children": []
+    }, {
+        "value": "Sóc Trăng",
+        "children": []
+    }, {
+        "value": "Thạnh Trị",
+        "children": []
+    }, {
+        "value": "Trần Đề",
+        "children": []
+    }, {
+        "value": "Vĩnh Châu",
+        "children": []
+    }]
+}, {
+    "value": "Sơn La",
+    "children": [{
+        "value": "Bắc Yên",
+        "children": []
+    }, {
+        "value": "Mộc Châu",
+        "children": []
+    }, {
+        "value": "Mai Sơn",
+        "children": []
+    }, {
+        "value": "Mường La",
+        "children": []
+    }, {
+        "value": "Phù Yên",
+        "children": []
+    }, {
+        "value": "Quỳnh Nhai",
+        "children": []
+    }, {
+        "value": "Sốp Cộp",
+        "children": []
+    }, {
+        "value": "Sơn La",
+        "children": []
+    }, {
+        "value": "Sông Mã",
+        "children": []
+    }, {
+        "value": "Thuận Châu",
+        "children": []
+    }, {
+        "value": "Vân Hồ",
+        "children": []
+    }, {
+        "value": "Yên Châu",
+        "children": []
+    }]
+}, {
+    "value": "Tây Ninh",
+    "children": [{
+        "value": "Bến Cầu",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Dương Minh Châu",
+        "children": []
+    }, {
+        "value": "Gò Dầu",
+        "children": []
+    }, {
+        "value": "Hòa Thành",
+        "children": []
+    }, {
+        "value": "Tân Biên",
+        "children": []
+    }, {
+        "value": "Tân Châu",
+        "children": []
+    }, {
+        "value": "Tây Ninh",
+        "children": []
+    }, {
+        "value": "Trảng Bàng",
+        "children": []
+    }]
+}, {
+    "value": "Thừa Thiên Huế",
+    "children": [{
+        "value": "A Lưới",
+        "children": []
+    }, {
+        "value": "Huế",
+        "children": []
+    }, {
+        "value": "Hương Thủy",
+        "children": []
+    }, {
+        "value": "Hương Trà",
+        "children": []
+    }, {
+        "value": "Nam Đông",
+        "children": []
+    }, {
+        "value": "Phong Điền",
+        "children": []
+    }, {
+        "value": "Phú Lộc",
+        "children": []
+    }, {
+        "value": "Phú Vang",
+        "children": []
+    }, {
+        "value": "Quảng Điền",
+        "children": []
+    }]
+}, {
+    "value": "Thái Bình",
+    "children": [{
+        "value": "Đông Hưng",
+        "children": []
+    }, {
+        "value": "Hưng Hà",
+        "children": []
+    }, {
+        "value": "Kiến Xương",
+        "children": []
+    }, {
+        "value": "Quỳnh Phụ",
+        "children": []
+    }, {
+        "value": "Thái Bình",
+        "children": []
+    }, {
+        "value": "Thái Thụy",
+        "children": []
+    }, {
+        "value": "Tiền Hải",
+        "children": []
+    }, {
+        "value": "Vũ Thư",
+        "children": []
+    }]
+}, {
+    "value": "Thái Nguyên",
+    "children": [{
+        "value": "Đại Từ",
+        "children": []
+    }, {
+        "value": "Định Hóa",
+        "children": []
+    }, {
+        "value": "Đồng Hỷ",
+        "children": []
+    }, {
+        "value": "Phổ Yên",
+        "children": []
+    }, {
+        "value": "Phú Bình",
+        "children": []
+    }, {
+        "value": "Phú Lương",
+        "children": []
+    }, {
+        "value": "Sông Công",
+        "children": []
+    }, {
+        "value": "Thái Nguyên",
+        "children": []
+    }, {
+        "value": "Võ Nhai",
+        "children": []
+    }]
+}, {
+    "value": "Thanh Hóa",
+    "children": [{
+        "value": "Bỉm Sơn",
+        "children": []
+    }, {
+        "value": "Bá Thước",
+        "children": []
+    }, {
+        "value": "Cẩm Thủy",
+        "children": []
+    }, {
+        "value": "Đông Sơn",
+        "children": []
+    }, {
+        "value": "Hậu Lộc",
+        "children": []
+    }, {
+        "value": "Hà Trung",
+        "children": []
+    }, {
+        "value": "Hoằng Hóa",
+        "children": []
+    }, {
+        "value": "Lang Chánh",
+        "children": []
+    }, {
+        "value": "Mường Lát",
+        "children": []
+    }, {
+        "value": "Ngọc Lặc",
+        "children": []
+    }, {
+        "value": "Nga Sơn",
+        "children": []
+    }, {
+        "value": "Như Thanh",
+        "children": []
+    }, {
+        "value": "Như Xuân",
+        "children": []
+    }, {
+        "value": "Nông Cống",
+        "children": []
+    }, {
+        "value": "Quảng Xương",
+        "children": []
+    }, {
+        "value": "Quan Hóa",
+        "children": []
+    }, {
+        "value": "Quan Sơn",
+        "children": []
+    }, {
+        "value": "Sầm Sơn",
+        "children": []
+    }, {
+        "value": "Thạch Thành",
+        "children": []
+    }, {
+        "value": "Thọ Xuân",
+        "children": []
+    }, {
+        "value": "Thanh Hóa",
+        "children": []
+    }, {
+        "value": "Thiệu Hóa",
+        "children": []
+    }, {
+        "value": "Thường Xuân",
+        "children": []
+    }, {
+        "value": "Tĩnh Gia",
+        "children": []
+    }, {
+        "value": "Triệu Sơn",
+        "children": []
+    }, {
+        "value": "Vĩnh Lộc",
+        "children": []
+    }, {
+        "value": "Yên Định",
+        "children": []
+    }]
+}, {
+    "value": "Tiền Giang",
+    "children": [{
+        "value": "Cái Bè",
+        "children": []
+    }, {
+        "value": "Cai Lậy",
+        "children": []
+    }, {
+        "value": "Cai Lậy (Thị xã)",
+        "children": []
+    }, {
+        "value": "Chợ Gạo",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Gò Công",
+        "children": []
+    }, {
+        "value": "Gò Công Đông",
+        "children": []
+    }, {
+        "value": "Gò Công Tây",
+        "children": []
+    }, {
+        "value": "Mỹ Tho",
+        "children": []
+    }, {
+        "value": "Tân Phú Đông",
+        "children": []
+    }, {
+        "value": "Tân Phước",
+        "children": []
+    }]
+}, {
+    "value": "Trà Vinh",
+    "children": [{
+        "value": "Cầu Kè",
+        "children": []
+    }, {
+        "value": "Cầu Ngang",
+        "children": []
+    }, {
+        "value": "Càng Long",
+        "children": []
+    }, {
+        "value": "Châu Thành",
+        "children": []
+    }, {
+        "value": "Duyên Hải",
+        "children": []
+    }, {
+        "value": "Duyên Hải (Thị xã)",
+        "children": []
+    }, {
+        "value": "Tiểu Cần",
+        "children": []
+    }, {
+        "value": "Trà Cú",
+        "children": []
+    }, {
+        "value": "Trà Vinh",
+        "children": []
+    }]
+}, {
+    "value": "Tuyên Quang",
+    "children": [{
+        "value": "Chiêm Hóa",
+        "children": []
+    }, {
+        "value": "Hàm Yên",
+        "children": []
+    }, {
+        "value": "Lâm Bình",
+        "children": []
+    }, {
+        "value": "Nà Hang",
+        "children": []
+    }, {
+        "value": "Sơn Dương",
+        "children": []
+    }, {
+        "value": "Tuyên Quang",
+        "children": []
+    }, {
+        "value": "Yên Sơn",
+        "children": []
+    }]
+}, {
+    "value": "Vĩnh Long",
+    "children": [{
+        "value": "Bình Minh",
+        "children": []
+    }, {
+        "value": "Bình Tân",
+        "children": []
+    }, {
+        "value": "Long Hồ",
+        "children": []
+    }, {
+        "value": "Mang Thít",
+        "children": []
+    }, {
+        "value": "Tam Bình",
+        "children": []
+    }, {
+        "value": "Trà Ôn",
+        "children": []
+    }, {
+        "value": "Vĩnh Long",
+        "children": []
+    }, {
+        "value": "Vũng Liêm",
+        "children": []
+    }]
+}, {
+    "value": "Vĩnh Phúc",
+    "children": [{
+        "value": "Bình Xuyên",
+        "children": []
+    }, {
+        "value": "Lập Thạch",
+        "children": []
+    }, {
+        "value": "Phúc Yên",
+        "children": []
+    }, {
+        "value": "Sông Lô",
+        "children": []
+    }, {
+        "value": "Tam Đảo",
+        "children": []
+    }, {
+        "value": "Tam Dương",
+        "children": []
+    }, {
+        "value": "Vĩnh Tường",
+        "children": []
+    }, {
+        "value": "Vĩnh Yên",
+        "children": []
+    }, {
+        "value": "Yên Lạc",
+        "children": []
+    }]
+}, {
+    "value": "Yên Bái",
+    "children": [{
+        "value": "Lục Yên",
+        "children": []
+    }, {
+        "value": "Mù Căng Chải",
+        "children": []
+    }, {
+        "value": "Nghĩa Lộ",
+        "children": []
+    }, {
+        "value": "Trạm Tấu",
+        "children": []
+    }, {
+        "value": "Trấn Yên",
+        "children": []
+    }, {
+        "value": "Văn Chấn",
+        "children": []
+    }, {
+        "value": "Văn Yên",
+        "children": []
+    }, {
+        "value": "Yên Bái",
+        "children": []
+    }, {
+        "value": "Yên Bình",
+        "children": []
+    }]
+}]
